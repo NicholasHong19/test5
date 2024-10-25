@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&display=swap');
+body {
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+header {
+    background-color: #0612FF;
+    font-family: "Josefin Slab";
+    font-size: 100px;
+    padding-top: 10px;
+    padding-left: 20px;
+    color: white;
+}
+
+header img {
+    width: 100px;
+    height: 100px;
+}
+
+.p1 {
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    padding: 17px;
+    margin-left: 40px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.p2 {
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    padding: 17px;
+    margin-left: 40px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.bg1 {
+    background-color: gray;
+    border-radius: 10px;
+    width: 40%;
+    margin-left: 5%;
+    margin-top: 50px;
+    padding: 20px;
+    display: inline-block;
+}
+
+.bg1 img {
+    border-radius: 10px;
+    width: 100%;
+}
+
+.bg1 p {
+    font-family: "Josefin Slab";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.bg1 h2 {
+    text-align: center;
+    font-family: "Josefin Slab";
+    font-size: 35px;
+}
+
+.bg1 button {
+    width: 100%;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    font-family: "Josefin Slab";
+}
+
+footer {
+    margin-top: 30px;
+    background-color: #0612FF;
+    padding: 15px;
+    font-size: 40px;
+    font-family: "Josefin Slab";
+    color: white;
+}
